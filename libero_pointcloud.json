@@ -1,0 +1,8 @@
+{
+ "frames": 126,
+ "seconds": 10.5,
+ "bytes": 4328973,
+ "task": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+ "valid_points_correct_min": 48422,
+ "nonzero_points_pre_guard_max": 0
+}
